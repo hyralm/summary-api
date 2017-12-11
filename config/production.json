@@ -1,0 +1,9 @@
+{
+  "env": "production",
+  "jwt": {
+    "secret": "summary-secret"
+  },
+  "mongo": {
+    "uri": "mongo-production"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "env": "development",
+  "jwt": {
+    "secret": "summary-secret"
+  },
+  "mongo": {
+    "uri": "mongo-development"
+  }
+}
